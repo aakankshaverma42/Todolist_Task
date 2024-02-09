@@ -1,0 +1,50 @@
+{
+  "allTodos": [
+    {
+      "title": "Read a chapter of book",
+      "description": "Spend some time reading to unwind",
+      "createdAt": "09-02-2024 at 21:30:00",
+      "id": "73dd"
+    },
+    {
+      "title": "Exercise for 30 minutes",
+      "description": "Go for a jog or do some bodyweight exercises",
+      "createdAt": "09-02-2024 at 22:00:00",
+      "id": "1a12"
+    },
+    {
+      "title": "Attend online meeting",
+      "description": "Join the team meeting on Zoom",
+      "createdAt": "09-02-2024 at 22:30:00",
+      "id": "697c"
+    },
+    {
+      "title": "Cook dinner",
+      "description": "Prepare a healthy meal for tonight",
+      "createdAt": "09-02-2024 at 23:00:00",
+      "id": "1afe"
+    },
+    {
+      "title": "Practice guitar",
+      "description": "Work on learning new chords and songs",
+      "createdAt": "09-02-2024 at 23:30:00",
+      "id": "1c28"
+    }
+  ],
+  "completedTodos": [
+    {
+      "title": "Call Mom",
+      "description": "Check in and see how she's doing",
+      "createdAt": "09-02-2024 at 18:30:00",
+      "completedOn": "09-02-2024 at 19:00:00",
+      "id": "a006"
+    },
+    {
+      "title": "Exercise for 30 minutes",
+      "description": "Go for a jog or do some bodyweight exercises",
+      "createdAt": "09-02-2024 at 22:00:00",
+      "completedOn": "09-02-2024 at 22:45:00",
+      "id": "f20e"
+    }
+  ]
+}
