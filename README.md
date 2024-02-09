@@ -1,6 +1,6 @@
  FRONT-END ASSIGNMENT 
 ![image](https://github.com/aakankshaverma42/Todolist_Task/assets/92093809/ab229b14-0cc9-407f-8284-f9fa461de5b6)
-![image](https://github.com/aakankshaverma42/Todolist_Task/assets/92093809/9bd49187-d981-4cbf-8192-5f5afe116634)
+
 Implementation Details:
 
 React.js Framework: The project leverages React.js for its intuitive and reactive user interface development capabilities. React.js components are utilized to create modular, reusable UI elements, facilitating efficient development and maintenance.
